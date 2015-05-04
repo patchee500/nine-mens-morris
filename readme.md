@@ -1,7 +1,11 @@
 Nine Men's Morris in JS
 =================
 
-Please make sure that your browser supports webgl.
+See the Demo at:
+
+http://patchee500.github.io/nine-mens-morris/
+
+Please make sure that your browser supports WebGL.
 If you are not sure if your browser supports WebGL you can check here:
 http://www.doesmybrowsersupportwebgl.com/
 
