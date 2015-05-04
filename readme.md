@@ -1,9 +1,10 @@
-NineMensMorris in JS
+Nine Men's Morris in JS
 =================
 
 Please make sure that your browser supports webgl.
 If you are not sure if your browser supports WebGL you can check here:
 http://www.doesmybrowsersupportwebgl.com/
+
 Also consider, that some browsers may block the texture of the game board
 when you open your application via "localhost/..." or "file:///".
 (Chrome was once such a candidate)
